@@ -1,0 +1,3 @@
+service : {
+  getImageUrl: () -> (text) query;
+}
